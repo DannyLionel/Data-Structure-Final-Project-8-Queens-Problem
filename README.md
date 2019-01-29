@@ -1,1 +1,1 @@
-# Data-Structure-Final-Project
+# Data Structure Final Project 8 Queens Problem
